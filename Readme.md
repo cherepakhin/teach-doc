@@ -23,10 +23,12 @@
 
 В программе все сотрудники делятся на две категории: администраторы и продавцы. В зависимости от роли внешний вид программы будет разным.
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_1e0ee4b82c773733.png)
+![Экран для продавцов](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_1e0ee4b82c773733.png)
+
 *Экран для продавцов*
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_eb4ee8828799f79a.png)
+![Экран для администраторов](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_eb4ee8828799f79a.png)
+
 *Экран для администраторов*
 
 Экраны отличаются возможностями (панель слева).
