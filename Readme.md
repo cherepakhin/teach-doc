@@ -27,7 +27,7 @@
 
 *Экран для продавцов*
 
-![Экран для администраторов](https://github.com/cherepakhin/teach-doc/blob/master/admin_screen.png)
+![Экран для администраторов](https://github.com/cherepakhin/teach-doc/blob/master/guide/admin_screen.png)
 
 *Экран для администраторов*
 
@@ -40,23 +40,27 @@
 
 **Подразделение**
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_c73ed25277a4d688.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_c73ed25277a4d688.png)
+
 *Доступ к настройке*
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_fba1e56412be36a8.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_fba1e56412be36a8.png)
+
 *Управление*
 
 **Сотрудники**
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_d4da9a6de4fef6a3.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_d4da9a6de4fef6a3.png)
+
 *Доступ к настройке*
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_e555a5b0e5dae4eb.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_e555a5b0e5dae4eb.png)
+
 *Управление*
 
 При нажатии на кнопку «Добавить» или «Изменить» появится диалог ввода параметров сотрудника:
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_a5baa4822c097ad5.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_a5baa4822c097ad5.png)
 
 По завершении нажать кнопку «Сохранить»
 
@@ -68,48 +72,55 @@
 - Выгода покупателя
 - Контрольный вопросов
 - Варианты ответов
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_8524d79379096799.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_8524d79379096799.png)
+
 *Доступ к настройке*
 
 **Группы характеристик**
 Сначала нужно настроить группы характеристик. Это группы, которые как-то группируют характеристики по сути (например: группы товаров, бренды). Имеют двухуровневую структуру: Метагруппа → Подгруппы. Например: Метагруппа «Малая бытовая техника» может иметь подгруппы «Чайники», «Мультиварки» и т. п. Или метагруппа «Теле-, видео- товары» может иметь подгруппы «Телевизоры LED», «Плазмы»
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_204006b5562fc96a.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_204006b5562fc96a.png)
+
 *Управление группами*
 
 **Характеристика**
 Для редактирования сначала нужно найти нужную или создать новую
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_580254befa0ce442.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_580254befa0ce442.png)
+
 *Выбор целевой характеристики*
 
-![](https://github.com/cherepakhin/teach-doc/blob/master/guide_html_9a453c835893c727.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_9a453c835893c727.png)
+
 *Редактирование характеристики*
 
 ### 4. Настройка опроса
 
 На каждого сотрудника создается план опроса на месяц. При входе в программу продавцу задается какое-то количество вопросов. Ежедневное количество вопросов вычисляется из количества рабочих смен продавца и общего количества вопросов в месяц. Таким образом эти цифры должны быть заданы каждый месяц.
 
-![](https://github.com/cherepakhin/teach-doc/blob/masterguide_html_c28aa2b87a191523.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_c28aa2b87a191523.png)
+
 *Доступ к плану опроса*
 
-![](https://github.com/cherepakhin/teach-doc/blob/guide_html_5a7a37f5159354a.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_5a7a37f5159354a.png)
+
 *Управление планом*
 
 Если количество смен или кол-во вопросов равны 0, то сотрудник не участвует в опросе.
 
 ### 5. Опрос
 При входе в программу продавцу задаются вопросы
-![](https://github.com/cherepakhin/teach-doc/blob/guide_html_76b1757433e12b91.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_76b1757433e12b91.png)
 
 
 Продавец должен отметить ответ, который он считает правильным и нажать кнопку «Далее». Появится результат вопроса (правильный/неправильный) и объяснение характеристики.
-![](https://github.com/cherepakhin/teach-doc/blob/guide_html_2bb9663f7ab5a2db.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_2bb9663f7ab5a2db.png)
 
 При нажатии кнопки «Закрыть», либо будет заданы еще вопросы (если дневной план опроса не выполнен), либо сообщение «На сегодня вопросов нет.»
 
 ### 6. Отчеты
 Доступны через кнопку «Отчеты»
 
-![](https://github.com/cherepakhin/teach-doc/blob/guide_html_2e28a76485a21c89.png)
+![](https://github.com/cherepakhin/teach-doc/blob/master/guide/guide_html_2e28a76485a21c89.png)
+
 *Доступ и управление*
